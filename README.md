@@ -7,9 +7,9 @@ Nesta atividade foi utilizado o algorítmo Kruskal para criar um subgrafo do gra
 
 • Estruturação do código em Python com a utilização das bibliotecas `OSMNx`, `Networkx` e `Matplotlib`;  
 
-• Elaboração de um artigo explicativo sobre o problema resolvido, na plataforma Medium.com;  
+• Elaboração de um artigo explicativo sobre o problema resolvido, na plataforma Medium.com; [https://medium.com/@mauriciomatheuss2001/mst-aplicada-ao-grafo-urbano-da-cidade-de-natal-69b5767325e1];  
 
-• Upload do artigo em formato pdf na plataforma NoteboolkLM do Google, onde foi gerado um podcast explicativo a respeito do trabalho.    
+• Upload do artigo em formato pdf na plataforma NoteboolkLM do Google, onde foi gerado um podcast explicativo a respeito do trabalho. [https://notebooklm.google.com/notebook/e5339774-abd8-4d19-a12d-471744edc261?original_referer=https:%2F%2Fwww.google.com%23&pli=1]   
 
 ## Mapa final contendo todos os Points Of Interest escolhidos e as rotas após aplicação do algorítmo Kruskal:  
 
